@@ -1,20 +1,19 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# WEIRD RECIPE GENERATOR 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Tech Flioers 
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Chris Elsa Binu- College Of Engineering Trivandrum
+- Member 2: Aswathi K S- College Of Engineering Trivandrum
+- Member 3: Sarah Abraham-College Of Engineering Trivandrum
 
 ### Project Description
-[2-3 lines about what your project does]
-
+This Weird Recipe Generator rules out conventional culinary styles and takes us to a world of crazy cravings and unimaginable food combinations.
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
 
