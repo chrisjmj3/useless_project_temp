@@ -14,9 +14,9 @@
 
 ### Project Description
 This Weird Recipe Generator rules out conventional culinary styles and takes us to a world of crazy cravings and unimaginable food combinations.Here’s why it’s proudly useless:
-1.Defies Nutritional Goals: Users input specific dietary constraints, like low sugar or low cholesterol, and the app generates recipes that intentionally do the opposite—think sugary salads or high-cholesterol smoothies!
-2.Twists Ingredient Intentions: Users enter everyday ingredients expecting sensible recipes, but the app creates bizarre combinations like chocolate curry or pickle-flavored ice cream.
-3.Zero Practicality: The recipes generated are far from what anyone asked for, making it virtually impossible to follow traditional culinary norms.
+- Defies Nutritional Goals: Users input specific dietary constraints, like low sugar or low cholesterol, and the app generates recipes that intentionally do the opposite—think sugary salads or high-cholesterol smoothies!
+- Twists Ingredient Intentions: Users enter everyday ingredients expecting sensible recipes, but the app creates bizarre combinations like chocolate curry or pickle-flavored ice cream.
+- Zero Practicality: The recipes generated are far from what anyone asked for, making it virtually impossible to follow traditional culinary norms.
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
