@@ -22,7 +22,7 @@ This Weird Recipe Generator rules out conventional culinary styles and takes us 
 The problem we’re addressing is the overly rigid and predictable nature of conventional recipe generators. Most tools focus strictly on following user constraints like nutritional guidelines or ingredient combinations. This project challenges that norm by offering recipes that intentionally diverge from the constraints provided, exploring unconventional outcomes and expanding the boundaries of creativity in recipe generation.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We're solving it by creating a recipe generator that takes your carefully thought-out ingredient list and nutritional constraints—then does the exact opposite. Instead of giving you what you asked for, it flips the script to generate completely unexpected, impractical recipes using the same inputs. It’s an exploration of what happens when you challenge the rules of traditional recipe creation
 
 ## Technical Details
 ### Technologies/Components Used
