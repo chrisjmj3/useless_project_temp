@@ -4,7 +4,7 @@
 
 
 ## Basic Details
-### Team Name: Tech Flioers 
+### Team Name: Tech Fliers 
 
 
 ### Team Members
