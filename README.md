@@ -42,15 +42,16 @@ For Software:
 [commands]
 
 ### Project Documentation
+
 The Useless Recipe Generator is a creative web application that redefines how recipes are generated. By taking user-provided ingredients and nutritional constraints, it produces recipes that intentionally go against the specified requirements while still using the same ingredients. This project explores unconventional outcomes, encouraging users to rethink traditional recipe generation norms.
 
-# Features
+##### Features
 - Accepts user-inputted ingredients and nutritional constraints.
 - Generates recipes that defy the provided constraints (e.g., high-sugar recipes for low-sugar requests).
 - Uses the Gemini API to fetch real-world recipe data as a basis.
 - Displays generated recipes in a simple, user-friendly UI.
 
-# Tools Used
+##### Tools Used
 - React for building the user interface.
 - Node.js and Express.js for server-side operations.
 - Gemini API for recipe retrieval and adaptation.
