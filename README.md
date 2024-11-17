@@ -26,16 +26,12 @@ We're solving it by creating a recipe generator that takes your carefully though
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Languages Used: JavaScript, HTML, CSS
+- Frameworks Used: React, Express.js
+- Libraries Used: Node.js
+- APIs Used: Gemini API (for fetching recipe data)
+
 
 ### Implementation
 For Software:
