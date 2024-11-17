@@ -19,7 +19,7 @@ This Weird Recipe Generator rules out conventional culinary styles and takes us 
 - Zero Practicality: The recipes generated are far from what anyone asked for, making it virtually impossible to follow traditional culinary norms.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The problem we’re addressing is the overly rigid and predictable nature of conventional recipe generators. Most tools focus strictly on following user constraints like nutritional guidelines or ingredient combinations. This project challenges that norm by offering recipes that intentionally diverge from the constraints provided, exploring unconventional outcomes and expanding the boundaries of creativity in recipe generation.
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
