@@ -100,16 +100,15 @@ The final recipe page is displayed, but please note that due to limitations with
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/16JvSsjzwRidzHAraocxSkBmsaXQ0QlgY/view?usp=sharing
+*This video demonstrates the bsic functioning of the project*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Chris Elsa Binu: Worked with Backend and linked Gemini API key with the project
+- Aswathi K S: Worked with the frontend and collected resources
+- Sarah Abraham: Worked with the frontend and collected resources
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
