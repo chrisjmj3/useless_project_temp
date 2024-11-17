@@ -4,6 +4,7 @@ import "./pagetwo.css"
 
 const WeirdRecipeGenerator = () => {
   const [ingredients, setIngredients] = useState('');
+  const [nutri, setNutri] = useState('');
   const [cookingTime, setCookingTime] = useState('30');
   const [cookingType, setCookingType] = useState('bake');
   const [cuisine, setCuisine] = useState('fusion');
@@ -202,6 +203,17 @@ const WeirdRecipeGenerator = () => {
               <option value="experimental">Experimental</option>
             </select>
           </div>
+
+          <div style={styles.formGroup}>
+            <label style={styles.label}>Nutritional Constraint</label>
+            <input
+            style={styles.input}
+            placeholder="e.g., Less Sugary,Avoid oil "
+            value={nutri}
+            onChange={(e) => setNutri(e.target.value)}
+          />
+          </div>
+
         </div>
 
         <button
