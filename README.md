@@ -60,27 +60,33 @@ The Useless Recipe Generator is a creative web application that redefines how re
 
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+## Landing Page
+![Screenshot 2024-11-17 145000](https://github.com/user-attachments/assets/6870f8df-0dda-4dd6-aab0-89b843e748fb)
+*This is the landing page of the project ,where there are various options to generate or to read the testimonials or to go through the instructions .* 
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Screenshot 2024-11-17 145020](https://github.com/user-attachments/assets/7f661df8-b855-4c1f-b326-22f84c62522e)
+*Continution of Landing Page* 
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+![Screenshot 2024-11-17 145036](https://github.com/user-attachments/assets/5ec502da-19ea-4218-8885-37d160f14a38)
+*Continution of Landing Page* 
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+
+![Screenshot 2024-11-17 145049](https://github.com/user-attachments/assets/29a88466-6887-45d6-9416-5f2611d578ee)
+Testimonials - Continution of Landing Page
+
+## Generating prompt 
+![Screenshot 2024-11-17 145245](https://github.com/user-attachments/assets/eeead1b6-8fcb-4f2b-a32a-3c3687e01146)
+Giving input to the generate page 
+
+## Fianl Recipie
+![Screenshot 2024-11-17 145304](https://github.com/user-attachments/assets/2b9c4403-d649-4af7-887d-85dd8a025712)
+The final recipe page is displayed, but please note that due to limitations with the Gemini API (frequent failures in key authentication after several prompts), the final recipe is not generated using the Gemini API. Instead, it is created entirely on the frontend.   
+
+
+
 
 # Build Photos
 ![Components](Add photo of your components here)
